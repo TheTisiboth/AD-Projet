@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sinalgo>
+	<ProjectSelector windowWidth="800" windowHeight="600" lastChosenProject="dfs" windowPosX="200" windowPosY="100" isMaximized="false" selectedTab="1" />
+	<GUI windowWidth="964" windowHeight="522" windowPosX="0" windowPosY="36" isMaximized="false" ControlPanelExpandSimulation="true" ControlPanelShowFullViewPanel="false" ControlPanelShowTextPanel="true" ControlPanelShowProjectControl="true" RunOperationIsLimited="true" helpWindowWidth="500" helpWindowHeight="500" helpWindowPosX="200" helpWindowPosY="200" helpWindowIsMaximized="false" />
+	<RandomSeed seedFromPreviousRun="5526311447342896148" />
+	<App lastSelectedFileDirectory="/media/Share/linux/Cours_5A/AD/sinalgo/src/projects/dfs/" checkForUpdatesAtStartup="false" updateCheckTimeStamp="0" runCmdLineArgs="" />
+	<GenNodesDlg numNodes="20" />
+</sinalgo>
+
